@@ -8,6 +8,8 @@
 
 ## Area Calculator
 
+## Number Analyzer
+
 ## Result Processor
 
 ## Payment Gateway
