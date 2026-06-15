@@ -10,4 +10,12 @@
 
 ## Result Processor
 
+## Payment Gateway
 
+## ATM PIN Checker
+
+## ATM Simulation System
+
+## Bonus Calculator
+
+##
